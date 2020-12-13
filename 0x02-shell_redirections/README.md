@@ -1,7 +1,7 @@
 0x02-shell_redirections
 
 Script0 - Prints "Hello, World," followed by a new line to the standard output.\
-Script1 = Displays a confused smiley "(Ôo)'\
+Script1 - Displays a confused smiley "(Ôo)'\
 Script2 - Displays the content of the /etc/passwd file\
 Script3 - Displays the content of /etc/passwd and /etc/hosts\
 Script4 -Displays the last 10 lines of /etc/passwd\
