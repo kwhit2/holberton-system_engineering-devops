@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# This script displays a list of currently running processes.
+
+ps auxf
+
+# ps = list all current running processes
+# a = all even hidden
+# u = display user oriented format
+# x = display even if user does not have a TTY/terminal
+# f = Do full-format listing
