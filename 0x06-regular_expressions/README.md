@@ -132,11 +132,7 @@ Requirements:
 
 * (log file provided)
 
-\
-
 * 101-passed_linkedin_regex_challenge.jpg - One way to get started in getting a Software Engineering job at LinkedIn is to solve their regex puzzle.
-
-\
 
 Requirements:
 
