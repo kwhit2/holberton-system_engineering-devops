@@ -49,8 +49,8 @@ frontend http
 backend web_servers
         balance roundrobin
         mode http
-        server 2327-web-01 35.237.166.125
-        server 2327-web-02 54.167.61.201
+        server 2327-web-01 35.237.166.125:80
+        server 2327-web-02 54.167.61.201:80
 
 # LE Backend
 backend letsencrypt-backend
