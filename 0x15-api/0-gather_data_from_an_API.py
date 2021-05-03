@@ -10,7 +10,6 @@
     ...total number of tasks, which is the sum of completed and non-completed..
     ..tasks Second and N next lines display the title of completed tasks:..
     ..TASK_TITLE (with 1 tabulation and 1 space before the TASK_TITLE) """
-
 import requests
 from sys import argv
 
