@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# reboot
+pkill -HUP gunicorn
