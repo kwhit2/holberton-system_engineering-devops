@@ -29,7 +29,7 @@
 - Script18 - Displays all lines of the file /etc/ssh/sshd_config starting with a letter(including capital letters).
 - Script19 - Replace all characters A and c from input to Z and e respectively.
 - Script20 - Removes all letters c and C from input.
-- Script21 -Reverses its input.
+- Script21 - Reverses its input.
 - Script22 - Displays all users and their home directories, sorted by users.
 - Script23 - Finds all empty files and directories in the current directory and all sub-directories. Only names of files and directories are displayed. Hidden files listed, one file name per line, listing ends with a new line.
 - Script24 - Lists all the files with a .gif extension in the current directory and all its sub-directories. Hidden files are listed. Directories are not listed. nAmes of files are displayed wihtout their extensions.Files are sorted by byte values, but case-insensitive. One file name per line, listing ends with a new line.
